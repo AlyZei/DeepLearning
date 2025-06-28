@@ -1,4 +1,1 @@
-predictions.csv
-test.csv
-train.csv
-predictions_pytorch_linear_regression.csv
+boston_housing_data/
